@@ -37,6 +37,8 @@ Built on **LangGraph** for stateful multi-turn conversation, **FAISS** for fast 
 
 ---
 
+Demo video Link: https://youtu.be/559nvfMSS6Q
+
 ## 🏗 System Architecture
 
 ```
